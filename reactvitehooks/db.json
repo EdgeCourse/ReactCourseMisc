@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "4ca6",
+      "name": "book",
+      "description": "wonderful books",
+      "price": "12",
+      "stock": "4"
+    },
+    {
+      "id": "d531",
+      "name": "react",
+      "description": "react books",
+      "price": "13",
+      "stock": "4"
+    }
+  ]
+}
